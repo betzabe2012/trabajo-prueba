@@ -1,1 +1,1 @@
-https://github.com/betzabe2012/trabajo-prueba.git
+https://betzabe2012.github.io/trabajo-prueba/
