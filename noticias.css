@@ -1,0 +1,48 @@
+body{
+	font-family: 'Lobster', cursive;
+	font-family: 'Titan One', cursive
+}
+
+.row{
+	clear: both;
+	background-color:#D4F4ED
+}
+
+.navbar-collapse{
+	background-color: #7AFF33;
+	color: black;
+}
+.navbar-nav{
+	background-color: #95AEF4;
+	color: black;
+	position: fixed;
+}
+
+.jumbotron{	
+	color: black;
+	font-size: 66px;
+	text-align: center;
+	background-image:  url(fut.jpg);
+	background-size:100%;
+	min-height: 600px;
+}
+@media (min-width: 576px){
+
+}
+.jumbotron {
+    padding: 4rem 2rem;
+
+}.display-4{
+	font-size: 80px;
+	color: white;
+}	
+.card-header{
+	background-color: blue;
+	color: white;
+}
+.card-body{
+	background-color: #DDDFDA;{
+
+}
+.containe{
+}

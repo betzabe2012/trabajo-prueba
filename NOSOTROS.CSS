@@ -1,0 +1,42 @@
+body{
+
+font-family: 'Lobster', cursive;
+
+}
+.row{
+	background-color: #D4F4ED;
+	clear: both;
+}
+.navbar-collapse{
+	background-color: #7AFF33;
+	color: black;
+}
+.navbar-nav{
+	background-color: #95AEF4;
+	color: black;
+	position: fixed;
+}
+.jumbotron{
+	background-color: #33BBFF;
+	color: black;
+	font-size: 100%;
+	text-align: center;
+	background-image: url(foto7.jpg);
+	min-height: 600px;
+
+}
+.display-4{
+	font-size: 60px;
+
+}
+.lead{
+	font-size: 40px;
+
+}	
+.card-header{
+	background-color: blue;
+	color: white;
+}
+.card-body{
+	background-color: #DDDFDA;
+}
